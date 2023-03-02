@@ -5,11 +5,11 @@
 
       countdown100: function(options) {
         var defaults = {
-          timeZone: "GMT",
-          endtimeYear: 2023,
-          endtimeMonth: 3,
-          endtimeDate: 2,
-          endtimeHours: 22,
+          timeZone: "0",
+          endtimeYear: 0,
+          endtimeMonth: 0,
+          endtimeDate: 0,
+          endtimeHours: 0,
           endtimeMinutes: 0,
           endtimeSeconds: 0,
         }
