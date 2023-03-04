@@ -1,0 +1,30 @@
+<div style="text-align:center;">
+<h1>Pet Simulator X - Comet Update!</h1>
+<h2>March 04, 2023</h2>
+<p>Grab an umbrella because it’s raining comets! Comet crashes, pets, and egg! Plus new RAP leaderboards & exclusive pets!</p>
+<h3>Comet Update!</h3>
+<h4>Featuring</h4>
+<ul>
+    <li>Comet Crashes: Comets are randomly raining down from the sky!</li>
+    <li>Massive comets contain the new Comet Egg! If you happen to see one, make sure to tell your friends. You will need their help breaking them to get to the center!</li>
+    <li>Mini comets may be damaged to earn rewards. It's up to you and your pets to damage them.</li>
+    <li>New starry-eyed pets have been added: 2 new event pets, Comet Agony and Comet Cyclops, plus their HUGE counterparts, HUGE Comet Agony and HUGE Comet Cyclops.</li>
+    <li>If you happen to see a massive comet, invite your friends! You’ll need all the help you can get to hatch the new Comet Egg. This egg is located in the center of massive comets. It may only be hatched a few times per comet, act quickly!</li>
+    <li>The average of Recent Auction Prices (RAP) is now shown on pet descriptions. This can be seen by hovering over any Huge or Titanic pets. These prices update real-time to help make accurate trading decisions!</li>
+    <li>Leaderboards have been updated to show player's total RAP value! This is a more accurate way to see a player’s inventory value! In addition, the top 3 leaders have statues that dance above the leaderboards.</li>
+    <li>We've added over 60 new art pieces to the game! Featuring fanart from a total of 27 talented artists in our community. Thank you to all of the artists!</li>
+    <li>Introducing the new exclusive egg featuring the Titanic Dominus Astra! 2 new HUGE pets - Huge Storm Dominus and Huge Inferno Dominus! Don't miss out on the chance to hatch these limited edition pets!</li>
+</ul>
+<h4>Changes</h4>
+<ul>
+    <li>Exclusive Eggs may now be auctioned</li>
+    <li>Added 5% tax to all auction sales</li>
+    <li>Removed limitation on starting bid amount</li>
+    <li>Joining friends is much easier now! If your friend is on any server, you will automatically join them. This works for places such as Trading Plaza or Hardcore Mode.</li>
+    <li>The egg is given to all new players for being online for 5-10 minutes. Hopefully, this should let you catch up even quicker! Thanks for playing!</li>
+    <li>Drag-to-delete was behaving strangely on the bank. This was fixed up to make it smoother to use (or to not use).</li>
+    <li>The traveling merchant was forgotten with all the auction hype. The merchant has been removed from the Trading Plaza. Bye!</li>
+    <li>Improved Some Mailboxes: Doodle & Pixel mailbox presents now match the world theme</li>
+    <li>Fixed Coin UI: Fantasy coins now display in spawn world due to tech portal requiring them</li>
+    <li>Removed Some Backgrounds: Backgrounds were hard to see on Huge & Titanic pets so they were removed</li>
+    <li>Improved Sound Effects: Unselect sounds were missing on some machines like Huge Converter, Mailbox, and Daycare</
