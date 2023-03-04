@@ -49,3 +49,25 @@
 		</div>
 	</div>
 </div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Username Input</title>
+  </head>
+  <body>
+    <h1>Enter your username:</h1>
+    <form>
+      <input type="text" id="username" name="username" required>
+      <br><br>
+      <button type="button" onclick="submitUsername()">Submit</button>
+    </form>
+
+    <script>
+      function submitUsername() {
+        var username = document.getElementById("username").value;
+        alert("You entered: " + username);
+      }
+    </script>
+  </body>
+</html>
+
